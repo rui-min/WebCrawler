@@ -1,23 +1,20 @@
 # Web Crawler Documentation
 * This is a simple web crawler grabbing a Chinese author's 916 blogs' contents and comments to 916+1 .docx files (there is 1 index file).
-* List of articles link(page 1): https://blog.wenxuecity.com/blog/frontend.php?page=0&act=articleList&blogId=1666
+* Blogs' index link(page 1): https://blog.wenxuecity.com/blog/frontend.php?page=0&act=articleList&blogId=1666
 
 # Copyright
 **©Copyright 100% belongs to original author Mr. Runtao Yan (润涛阎) and the blog platform, not for any kind of business usage.**
 **©版权100%永久归作者及文学城平台所有，转载须知**
 
 # Quick Start
-Run export_wxc.py
-
-# Functionality of each file
-
+Run Main.py under scraping folder
 
 # Libraries (installed or put under project folder)
 1. Major External libraries(folders included): 
      1. Beautiful Soup 4("bs4"); For details please refer to https://github.com/wention/BeautifulSoup4
      2. docx; For details please refer to https://github.com/python-openxml/python-docx
 2. Others: 
-     1. lxml (installation needed: >pip install lxml);
+     1. lxml (if try to install: >pip install lxml);
      2. urllib; 
      3. ssl; 
      
