@@ -1,6 +1,6 @@
 # Web Crawler Documentation
 * This is a simple web crawler grabbing a Chinese author's 916 blogs' contents and comments to 916+1 .docx files (there is 1 index file).
-* List of articles link(page 1): https://blog.wenxuecity.com/blog/frontend.php?page=0&act=articleList&blogId=1666
+* Blogs' index link(page 1): https://blog.wenxuecity.com/blog/frontend.php?page=0&act=articleList&blogId=1666
 
 # Copyright
 **©Copyright 100% belongs to original author Mr. Runtao Yan (润涛阎) and the blog platform, not for any kind of business usage.**
