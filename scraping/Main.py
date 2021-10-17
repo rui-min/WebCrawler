@@ -15,7 +15,6 @@ if __name__ == "__main__":
     """
     prompt to input the directory part of the full path
     full path example: C:\\Users\\<username>\\Desktop\\index.docx
-    C:\\Users\\MINRUI\\Desktop\\reWXC
     """
     pathPrefix = input("Please input an existing directory for 917 files storage(e.g.C:\\Users): ")
 

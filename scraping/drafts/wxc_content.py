@@ -2,6 +2,7 @@ import urllib.request,urllib.parse,urllib.error
 from bs4 import BeautifulSoup
 import ssl
 
+
 # to avoid no cert error
 ctx = ssl.create_default_context()
 ctx.check_hostname=False
