@@ -7,7 +7,7 @@
 **©版权100%永久归作者及文学城平台所有，转载须知**
 
 # Quick Start
-Run Main.py
+Run Main.py under scraping folder
 
 # Libraries (installed or put under project folder)
 1. Major External libraries(folders included): 
