@@ -7,17 +7,14 @@
 **©版权100%永久归作者及文学城平台所有，转载须知**
 
 # Quick Start
-Run export_wxc.py
-
-# Functionality of each file
-
+Run Main.py
 
 # Libraries (installed or put under project folder)
 1. Major External libraries(folders included): 
      1. Beautiful Soup 4("bs4"); For details please refer to https://github.com/wention/BeautifulSoup4
      2. docx; For details please refer to https://github.com/python-openxml/python-docx
 2. Others: 
-     1. lxml (installation needed: >pip install lxml);
+     1. lxml (if try to install: >pip install lxml);
      2. urllib; 
      3. ssl; 
      
