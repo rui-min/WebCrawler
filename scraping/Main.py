@@ -1,9 +1,9 @@
 '''
-IMPORTANT: 0. Please do NOT repeatedly run this program
+IMPORTANT: 0. Please do NOT repeatedly run this program in a short period of time
 1. Use a stable VPN if in mainland China
-2. Ensure BeautifulSoup4 renamed to bs4, python-docx renamed to docx, and lxml installed
+2. Ensure library folders for BeautifulSoup4 renamed to "bs4", python-docx renamed to "docx"; install lxml
 3. No protection for internet interruption: everything needs to be done in a consecutive period of time
-    without interruption(which is usually 40-70 minutes).
+    without interruption(which is usually 10-40 minutes).
 '''
 
 import datetime
