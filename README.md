@@ -1,5 +1,5 @@
 # Web Crawler Documentation
-* This is a simple web crawler grabbing a Chinese author's 916 blogs' contents and comments to 916+1 .docx files (there is 1 index file).
+* This is a web crawler grabbing a Chinese author's 916 blogs' contents and comments to 916+1 .docx files (there is 1 index file).
 * Blogs' index link(page 1): https://blog.wenxuecity.com/blog/frontend.php?page=0&act=articleList&blogId=1666
 
 # Copyright
