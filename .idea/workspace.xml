@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="86d0e82b-2c9d-4fd3-9459-7071cb1e2830" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/WebCrawler.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs4/builder/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs4/builder/_html5lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs4/builder/_htmlparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs4/builder/_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs4/dammit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs4/diagnose.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs4/element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs4/formatter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs4/testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs4/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs4/tests/test_builder_registry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs4/tests/test_docs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs4/tests/test_html5lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs4/tests/test_htmlparser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs4/tests/test_lxml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs4/tests/test_soup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bs4/tests/test_tree.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23hTXjAW7ESGU4jlfrWR6NpQ0yv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.Main (1)">
+    <configuration name="Main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WebCrawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="WebCrawler" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scraping" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scraping/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Main (1)" />
+        <item itemvalue="Python.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86d0e82b-2c9d-4fd3-9459-7071cb1e2830" name="Default Changelist" comment="" />
+      <created>1642185360877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642185360877</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1642189196581">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864/1920.-243.2048.1152@0.0.1536.864" timestamp="1642189196581" />
+    <state width="1515" height="177" key="GridCell.Tab.0.bottom" timestamp="1642189197644">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="177" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.-243.2048.1152@0.0.1536.864" timestamp="1642189197644" />
+    <state width="1515" height="177" key="GridCell.Tab.0.center" timestamp="1642189197644">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="177" key="GridCell.Tab.0.center/0.0.1536.864/1920.-243.2048.1152@0.0.1536.864" timestamp="1642189197644" />
+    <state width="1515" height="177" key="GridCell.Tab.0.left" timestamp="1642189197644">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="177" key="GridCell.Tab.0.left/0.0.1536.864/1920.-243.2048.1152@0.0.1536.864" timestamp="1642189197644" />
+    <state width="1515" height="177" key="GridCell.Tab.0.right" timestamp="1642189197644">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="177" key="GridCell.Tab.0.right/0.0.1536.864/1920.-243.2048.1152@0.0.1536.864" timestamp="1642189197644" />
+    <state x="270" y="77" key="SettingsEditor" timestamp="1642189246436">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="270" y="77" key="SettingsEditor/0.0.1536.864/1920.-243.2048.1152@0.0.1536.864" timestamp="1642189246436" />
+  </component>
+</project>
