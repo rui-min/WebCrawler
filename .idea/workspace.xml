@@ -19,32 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86d0e82b-2c9d-4fd3-9459-7071cb1e2830" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/WebCrawler.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bs4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bs4/builder/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bs4/builder/_html5lib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bs4/builder/_htmlparser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bs4/builder/_lxml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bs4/dammit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bs4/diagnose.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bs4/element.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bs4/formatter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bs4/testing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bs4/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bs4/tests/test_builder_registry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bs4/tests/test_docs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bs4/tests/test_html5lib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bs4/tests/test_htmlparser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bs4/tests/test_lxml.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bs4/tests/test_soup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bs4/tests/test_tree.py" afterDir="false" />
-    </list>
+    <list default="true" id="86d0e82b-2c9d-4fd3-9459-7071cb1e2830" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -150,22 +125,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864/1920.-243.2048.1152@0.0.1536.864" timestamp="1642189196581" />
-    <state width="1515" height="177" key="GridCell.Tab.0.bottom" timestamp="1642189197644">
+    <state width="1515" height="177" key="GridCell.Tab.0.bottom" timestamp="1642189341572">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="177" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.-243.2048.1152@0.0.1536.864" timestamp="1642189197644" />
-    <state width="1515" height="177" key="GridCell.Tab.0.center" timestamp="1642189197644">
+    <state width="1515" height="177" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.-243.2048.1152@0.0.1536.864" timestamp="1642189341572" />
+    <state width="1515" height="177" key="GridCell.Tab.0.center" timestamp="1642189341571">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="177" key="GridCell.Tab.0.center/0.0.1536.864/1920.-243.2048.1152@0.0.1536.864" timestamp="1642189197644" />
-    <state width="1515" height="177" key="GridCell.Tab.0.left" timestamp="1642189197644">
+    <state width="1515" height="177" key="GridCell.Tab.0.center/0.0.1536.864/1920.-243.2048.1152@0.0.1536.864" timestamp="1642189341571" />
+    <state width="1515" height="177" key="GridCell.Tab.0.left" timestamp="1642189341571">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="177" key="GridCell.Tab.0.left/0.0.1536.864/1920.-243.2048.1152@0.0.1536.864" timestamp="1642189197644" />
-    <state width="1515" height="177" key="GridCell.Tab.0.right" timestamp="1642189197644">
+    <state width="1515" height="177" key="GridCell.Tab.0.left/0.0.1536.864/1920.-243.2048.1152@0.0.1536.864" timestamp="1642189341571" />
+    <state width="1515" height="177" key="GridCell.Tab.0.right" timestamp="1642189341571">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="177" key="GridCell.Tab.0.right/0.0.1536.864/1920.-243.2048.1152@0.0.1536.864" timestamp="1642189197644" />
+    <state width="1515" height="177" key="GridCell.Tab.0.right/0.0.1536.864/1920.-243.2048.1152@0.0.1536.864" timestamp="1642189341571" />
     <state x="270" y="77" key="SettingsEditor" timestamp="1642189246436">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
