@@ -7,19 +7,22 @@
 **©版权100%永久归作者及文学城平台所有，转载须知**
 
 # Quick Start
-Run Main.py under scraping folder
+Run Main.py under src folder
 
 # Libraries (installed or put under project folder)
 1. Major External libraries(folders included): 
-     1. Beautiful Soup 4("bs4"); For details please refer to https://github.com/wention/BeautifulSoup4
+     1. Beautiful Soup 4("bs4"); For details please refer to https://www.crummy.com/software/BeautifulSoup/bs4/download/
      2. docx; For details please refer to https://github.com/python-openxml/python-docx
 2. Others: 
      1. lxml (if try to install: >pip install lxml);
      2. urllib; 
      3. ssl; 
-     
+
+# Demonstration
+![showcase](/demonstration.JPG)
+
 # Limitations
-1. No protection for internet interruption: everything needs to be done in a consecutive period of time without interruption(which can vary from 10 to 50 minutes depending on internet condition).
+1. No protection for internet interruption: everything needs to be done in a consecutive period of time without interruption(which can vary from 15 to 40 minutes depending on internet condition).
 2. There are less than 5 articles which can not be grabbed normally. It is due to library docx's incompatiblity with some non-English characters. The few articles(<5) are skipped by try... except.. clause.
 
 # References
